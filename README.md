@@ -32,6 +32,11 @@ Follow Below steps to set up the project on your local machine:
 3. Click the **Generate** button to create an image.
 4. The generated images will be saved in the output directory.
 
+## ⚒️ Workflow 
+  ![Screenshot 2025-02-13 212635](https://github.com/user-attachments/assets/c05ae925-3e15-4a63-b711-ace0e462e64e)
+
+
+
 
 ## 📌 Features
 - Text-to-Image generation using Stable Diffusion.
