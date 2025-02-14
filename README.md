@@ -39,6 +39,7 @@ Follow Below steps to set up the project on your local machine:
 Prompt 1: “A car with neon lights driving on a rainy road in a vibrant cyberpunk city at night.”
 
 ![image](https://github.com/user-attachments/assets/2c8c9ef7-29cb-49c8-b604-eba3c37b553b)
+
                 
 
 Prompt 2: “A breathtaking fantasy landscape with floating islands, glowing waterfalls, mystical creatures, and a vibrant, colorful sky.”
@@ -46,15 +47,18 @@ Prompt 2: “A breathtaking fantasy landscape with floating islands, glowing wat
 ![image](https://github.com/user-attachments/assets/9a540e24-9a16-4a9b-9e57-375726a53a4a)
                   
 
+
 Prompt 3: “A serene lake surrounded by green mountains during sunrise, with mist floating on the water.”
 
 ![image](https://github.com/user-attachments/assets/11b5646b-549e-48bb-91d2-d01f2ad6d9ee)
                   
 
+
 Prompt 4: “Epic battle warrior in futuristic armor, wielding a massive sword, standing on a battlefield with fire and smoke.
 
 ![image](https://github.com/user-attachments/assets/801a797f-664b-4da2-984a-e745b0c14fbd)
               
+
 
 Prompt 5: “Futuristic cyberpunk city at night, neon lights, towering skyscrapers, flying cars, bustling streets, holograms, and rain.”
 
