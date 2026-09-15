@@ -60,7 +60,7 @@ Prompt 4: “Epic battle warrior in futuristic armor, wielding a massive sword, 
               
 
 
-Prompt 5: “Futuristic cyberpunk city at night, neon lights, towering skyscrapers, flying cars, bustling streets, holograms, and rain.”
+Prompt 5: “Futuristic Cyberpunk city at night, neon lights, towering skyscrapers, flying cars, bustling streets, holograms, and rain.”
 
 ![image](https://github.com/user-attachments/assets/eac13694-da34-4051-9baa-1808d00a3256)
 
