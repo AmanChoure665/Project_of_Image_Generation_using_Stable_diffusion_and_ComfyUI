@@ -54,7 +54,7 @@ Prompt 3: “A serene lake surrounded by green mountains during sunrise, with mi
                   
 
 
-Prompt 4: “Epic battle warrior in futuristic armor, wielding a massive sword, standing on a battlefield with fire and smoke.
+Prompt 4: “Epic Battle warrior in futuristic armor, wielding a massive sword, standing on a battlefield with fire and smoke.
 
 ![image](https://github.com/user-attachments/assets/801a797f-664b-4da2-984a-e745b0c14fbd)
               
